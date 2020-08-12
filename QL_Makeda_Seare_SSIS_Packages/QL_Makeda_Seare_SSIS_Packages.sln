@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Makeda_Seare_SSIS_Packages", "QL_Makeda_Seare_SSIS_Packages\QL_Makeda_Seare_SSIS_Packages.dtproj", "{748E6168-9FE2-46A1-936B-CC6016DB1BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748E6168-9FE2-46A1-936B-CC6016DB1BCC}.Development|Default.ActiveCfg = Development
+		{748E6168-9FE2-46A1-936B-CC6016DB1BCC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2A954D-F324-45BB-BFF5-4CD65E5DBA1C}
+	EndGlobalSection
+EndGlobal
